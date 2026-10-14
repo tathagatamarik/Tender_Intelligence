@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Dalmia AI Intelligence Hub (project-specific) ---
+.venv/
+data/*.sqlite
+data/*.joblib
+.DS_Store
